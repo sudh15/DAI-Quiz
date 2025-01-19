@@ -2,21 +2,19 @@
     {
         "question": "What is the name of the main character in Naruto?",
         "answers": [
-            { "text": "Naruto Uzumaki", "id": 1 },
-            { "text": "Sasuke Uchiha", "id": 2 },
-            { "text": "Sakura Haruno", "id": 3 },
-            { "text": "Kakashi Hatake", "id": 4 }
-        ],
-        "correctAnswerId": 1
+            { "text": "Naruto Uzumaki", "correct": true },
+            { "text": "Sasuke Uchiha", "correct": false },
+            { "text": "Sakura Haruno", "correct": false },
+            { "text": "Kakashi Hatake", "correct": false }
+        ]
     },
     {
         "question": "Which anime features the Straw Hat Pirates?",
         "answers": [
-            { "text": "One Piece", "id": 1 },
-            { "text": "Bleach", "id": 2 },
-            { "text": "Fairy Tail", "id": 3 },
-            { "text": "Attack on Titan", "id": 4 }
-        ],
-        "correctAnswerId": 1
+            { "text": "One Piece", "correct": true },
+            { "text": "Bleach", "correct": false },
+            { "text": "Fairy Tail", "correct": false },
+            { "text": "Attack on Titan", "correct": false }
+        ]
     }
 ]
