@@ -2,10 +2,10 @@
     {
         "question": "What is the name of the main character in 'Naruto'?",
         "answers": [
-            { "text": "Naruto Uzumaki", "correct": true },
+            { "text": "Naruto Uzumaki", "correct": false },
             { "text": "Sasuke Uchiha", "correct": false },
             { "text": "Sakura Haruno", "correct": false },
-            { "text": "Kakashi Hatake", "correct": false }
+            { "text": "Kakashi Hatake", "correct": true }
         ]
     },
     {
