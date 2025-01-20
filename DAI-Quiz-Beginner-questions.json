@@ -88,5 +88,96 @@
             { "text": "Battle Through the Heavens", "correct": false },
             { "text": "Mo Dao Zu Shi", "correct": true }
         ]
+    },
+    {
+        "question": "Which donghua features the character Wei Wuxian?",
+        "answers": [
+            { "text": "Soul Land", "correct": false },
+            { "text": "Fog Hill of Five Elements", "correct": false },
+            { "text": "Mo Dao Zu Shi", "correct": true },
+            { "text": "Battle Through the Heavens", "correct": false }
+        ]
+    },
+    {
+        "question": "What is the main goal of Monkey D. Luffy in 'One Piece'?",
+        "answers": [
+            { "text": "To become the Pirate King", "correct": true },
+            { "text": "To find the Dragon Balls", "correct": false },
+            { "text": "To defeat Titans", "correct": false },
+            { "text": "To master swordsmanship", "correct": false }
+        ]
+    },
+    {
+        "question": "Which donghua is also known as 'Doupo Cangqiong'?",
+        "answers": [
+            { "text": "The King's Avatar", "correct": false },
+            { "text": "Fog Hill of Five Elements", "correct": false },
+            { "text": "Battle Through the Heavens", "correct": true },
+            { "text": "Mo Dao Zu Shi", "correct": false }
+        ]
+    },
+    {
+        "question": "What ability does Goku frequently use in battle in 'Dragon Ball'?",
+        "answers": [
+            { "text": "Kamehameha", "correct": true },
+            { "text": "Chidori", "correct": false },
+            { "text": "Rasengan", "correct": false },
+            { "text": "Shadow Clone Jutsu", "correct": false }
+        ]
+    },
+    {
+        "question": "Which donghua revolves around a gamer named Ye Xiu?",
+        "answers": [
+            { "text": "The King's Avatar", "correct": true },
+            { "text": "Soul Land", "correct": false },
+            { "text": "Battle Through the Heavens", "correct": false },
+            { "text": "Mo Dao Zu Shi", "correct": false }
+        ]
+    },
+    {
+        "question": "Who is known as the 'Hero Hunter' in 'One Punch Man'?",
+        "answers": [
+            { "text": "Garou", "correct": true },
+            { "text": "Saitama", "correct": false },
+            { "text": "Genos", "correct": false },
+            { "text": "King", "correct": false }
+        ]
+    },
+    {
+        "question": "Which donghua is based on a cultivation journey in the Douluo Continent?",
+        "answers": [
+            { "text": "Soul Land", "correct": true },
+            { "text": "Fog Hill of Five Elements", "correct": false },
+            { "text": "Battle Through the Heavens", "correct": false },
+            { "text": "The King's Avatar", "correct": false }
+        ]
+    },
+    {
+        "question": "In 'My Hero Academia', what is the name of Deku's Quirk?",
+        "answers": [
+            { "text": "One For All", "correct": true },
+            { "text": "All For One", "correct": false },
+            { "text": "Quirkless", "correct": false },
+            { "text": "Explosions", "correct": false }
+        ]
+    },
+    {
+        "question": "Which donghua has the character Tang San?",
+        "answers": [
+            { "text": "Soul Land", "correct": true },
+            { "text": "The King's Avatar", "correct": false },
+            { "text": "Mo Dao Zu Shi", "correct": false },
+            { "text": "Battle Through the Heavens", "correct": false }
+        ]
+    },
+    {
+        "question": "Who is the main antagonist in 'Death Note'?",
+        "answers": [
+            { "text": "Light Yagami", "correct": true },
+            { "text": "Ryuk", "correct": false },
+            { "text": "L", "correct": false },
+            { "text": "Near", "correct": false }
+        ]
     }
 ]
+
