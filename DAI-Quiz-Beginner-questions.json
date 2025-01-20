@@ -2,46 +2,46 @@
     {
         "question": "What is the name of the main character in 'Naruto'?",
         "answers": [
-            { "text": "Naruto Uzumaki", "correct": false },
+            { "text": "Naruto Uzumaki", "correct": true },
             { "text": "Sasuke Uchiha", "correct": false },
             { "text": "Sakura Haruno", "correct": false },
-            { "text": "Kakashi Hatake", "correct": true }
+            { "text": "Kakashi Hatake", "correct": false }
         ]
     },
     {
         "question": "Which anime features the character Monkey D. Luffy?",
-        "answers": [
-            { "text": "One Piece", "correct": true },
+        "answers": [            
             { "text": "Bleach", "correct": false },
             { "text": "Naruto", "correct": false },
+            { "text": "One Piece", "correct": true },
             { "text": "Fairy Tail", "correct": false }
         ]
     },
     {
         "question": "What is the name of the anime where the protagonist writes names in a Death Note?",
-        "answers": [
-            { "text": "Death Note", "correct": true },
+        "answers": [            
             { "text": "Tokyo Ghoul", "correct": false },
             { "text": "Attack on Titan", "correct": false },
-            { "text": "Demon Slayer", "correct": false }
+            { "text": "Demon Slayer", "correct": false },
+            { "text": "Death Note", "correct": true }
         ]
     },
     {
         "question": "Which donghua is known as the 'King's Avatar'?",
-        "answers": [
-            { "text": "Quan Zhi Gao Shou", "correct": true },
+        "answers": [            
             { "text": "Mo Dao Zu Shi", "correct": false },
+            { "text": "Quan Zhi Gao Shou", "correct": true },
             { "text": "Soul Land", "correct": false },
             { "text": "Fog Hill of Five Elements", "correct": false }
         ]
     },
     {
         "question": "In 'Attack on Titan', what are the giants called?",
-        "answers": [
-            { "text": "Titans", "correct": true },
+        "answers": [            
             { "text": "Giants", "correct": false },
             { "text": "Monsters", "correct": false },
-            { "text": "Colossals", "correct": false }
+            { "text": "Colossals", "correct": false },
+            { "text": "Titans", "correct": true }
         ]
     },
     {
@@ -55,38 +55,38 @@
     },
     {
         "question": "Which donghua is based on Tang San's adventures in the Douluo Continent?",
-        "answers": [
-            { "text": "Soul Land", "correct": true },
+        "answers": [            
             { "text": "Battle Through the Heavens", "correct": false },
+            { "text": "Soul Land", "correct": true },
             { "text": "Fog Hill of Five Elements", "correct": false },
             { "text": "The King's Avatar", "correct": false }
         ]
     },
     {
         "question": "In 'Dragon Ball', what does Goku transform into during his first Super Saiyan transformation?",
-        "answers": [
-            { "text": "Golden-haired warrior", "correct": true },
+        "answers": [            
             { "text": "Giant ape", "correct": false },
             { "text": "Blue-haired Saiyan", "correct": false },
+            { "text": "Golden-haired warrior", "correct": true },
             { "text": "Kaio-ken form", "correct": false }
         ]
     },
     {
         "question": "What weapon does Tanjiro Kamado use in 'Demon Slayer'?",
-        "answers": [
-            { "text": "Nichirin Sword", "correct": true },
+        "answers": [            
             { "text": "Katana", "correct": false },
+            { "text": "Nichirin Sword", "correct": true },
             { "text": "Spear", "correct": false },
             { "text": "Bow and Arrow", "correct": false }
         ]
     },
     {
         "question": "Which donghua is also known as 'Grandmaster of Demonic Cultivation'?",
-        "answers": [
-            { "text": "Mo Dao Zu Shi", "correct": true },
+        "answers": [            
             { "text": "Soul Land", "correct": false },
             { "text": "The King's Avatar", "correct": false },
-            { "text": "Battle Through the Heavens", "correct": false }
+            { "text": "Battle Through the Heavens", "correct": false },
+            { "text": "Mo Dao Zu Shi", "correct": true }
         ]
     }
 ]
