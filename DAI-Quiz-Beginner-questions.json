@@ -1,8 +1,7 @@
 [
     {
         "question": "What is the name of the main character in 'Naruto'?",
-        "answers": [
-            
+        "answers": [            
             { "text": "Sasuke Uchiha", "correct": false },
             { "text": "Naruto Uzumaki", "correct": true },
             { "text": "Sakura Haruno", "correct": false },
@@ -11,8 +10,7 @@
     },
     {
         "question": "Which anime features the character Monkey D. Luffy?",
-        "answers": [
-            
+        "answers": [            
             { "text": "Bleach", "correct": false },
             { "text": "Naruto", "correct": false },
             { "text": "One Piece", "correct": true },
@@ -30,18 +28,16 @@
     },
     {
         "question": "Which donghua is known as the 'King's Avatar'?",
-        "answers": [
-            
+        "answers": [            
             { "text": "Mo Dao Zu Shi", "correct": false },
             { "text": "Soul Land", "correct": false },
-            { "text": "Fog Hill of Five Elements", "correct": false }
-            { "text": "Quan Zhi Gao Shou", "correct": true },
+            { "text": "Fog Hill of Five Elements", "correct": false },
+            { "text": "Quan Zhi Gao Shou", "correct": true }
         ]
     },
     {
         "question": "In 'Attack on Titan', what are the giants called?",
-        "answers": [
-            
+        "answers": [            
             { "text": "Giants", "correct": false },
             { "text": "Monsters", "correct": false },
             { "text": "Titans", "correct": true },
@@ -50,8 +46,7 @@
     },
     {
         "question": "Which anime features Pikachu as a companion?",
-        "answers": [
-            
+        "answers": [            
             { "text": "Digimon", "correct": false },
             { "text": "Yu-Gi-Oh!", "correct": false },
             { "text": "Pokemon", "correct": true },
@@ -69,18 +64,16 @@
     },
     {
         "question": "In 'Dragon Ball', what does Goku transform into during his first Super Saiyan transformation?",
-        "answers": [
-            
+        "answers": [            
             { "text": "Giant ape", "correct": false },
             { "text": "Blue-haired Saiyan", "correct": false },
-            { "text": "Kaio-ken form", "correct": false }
-            { "text": "Golden-haired warrior", "correct": true },
+            { "text": "Kaio-ken form", "correct": false },
+            { "text": "Golden-haired warrior", "correct": true }
         ]
     },
     {
         "question": "What weapon does Tanjiro Kamado use in 'Demon Slayer'?",
-        "answers": [
-            
+        "answers": [            
             { "text": "Katana", "correct": false },
             { "text": "Nichirin Sword", "correct": true },
             { "text": "Spear", "correct": false },
@@ -89,12 +82,11 @@
     },
     {
         "question": "Which donghua is also known as 'Grandmaster of Demonic Cultivation'?",
-        "answers": [
-            
+        "answers": [            
             { "text": "Soul Land", "correct": false },
             { "text": "The King's Avatar", "correct": false },
-            { "text": "Battle Through the Heavens", "correct": false }
-            { "text": "Mo Dao Zu Shi", "correct": true },
+            { "text": "Battle Through the Heavens", "correct": false },
+            { "text": "Mo Dao Zu Shi", "correct": true }
         ]
     }
 ]
